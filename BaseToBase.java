@@ -12,7 +12,7 @@ public class BaseToBase {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int base = 0;
+		int base = 2;
 		
 		// fail-safe
 		while (base < 2 || base > 10) {
